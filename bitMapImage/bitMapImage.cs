@@ -41,7 +41,6 @@ namespace bitMapImage
                         image1.SetPixel(x, y, newColor);
                     }
                 }
-
                 // Set the PictureBox to display the image.
                 pictureBox1.Width = image1.Width;
                 pictureBox1.Height = image1.Height;
